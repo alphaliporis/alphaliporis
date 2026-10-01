@@ -1,4 +1,4 @@
-# Vivek Jadhav
+# Shubham Chaudhary
 
 I build infrastructure and developer tools — the kind of software that other software runs on.
 
